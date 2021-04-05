@@ -1,0 +1,6 @@
+name: cs11
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
