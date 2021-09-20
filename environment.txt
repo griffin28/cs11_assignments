@@ -1,3 +1,0 @@
-matplotlib
-numpy
-mobilechelonian==0.5
